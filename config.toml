@@ -8,13 +8,11 @@ baseurl = "/"
 # Title of your site
 title = "Curriculum Vitae"
 # .config.toml
-...
 enableRobotsTXT = true
 canonifyURLs = true
 # and if you think your md file names or locations might change:
 [permalinks]
     post = "/blog/:title/"
-...
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
