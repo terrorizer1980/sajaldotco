@@ -23,7 +23,7 @@ paginate = 10
 disqusShortname = "sajaldotinfo"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-87994197-2"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -111,11 +111,11 @@ defaultContentLanguageInSubdir = false
   comment_count = true
 
   # Display section pager for posts?
-  section_pager = false
+  section_pager = true
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = false
+  math = true
 
   # Highlight.js options
   #   highlight
@@ -146,7 +146,7 @@ defaultContentLanguageInSubdir = false
   #   https://sourcethemes.com/academic/post/writing-markdown-latex/#highlighting-options
   highlight = true
   highlight_languages = []
-  # highlight_style = "github"
+  highlight_style = "github"
 
   # Enable native social sharing buttons?
   sharing = true
@@ -225,7 +225,7 @@ defaultContentLanguageInSubdir = false
     link = "//twitter.com/sajaldotinfo"
 
   [[params.social]]
-    icon = "google-scholar"
+    icon = "researchgate"
     icon_pack = "ai"
     link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
