@@ -20,6 +20,10 @@ In this Tutorial I’ll explain, How to install Raspberry Pi operating system im
     Noobs – which is designed to be very easy to use.
     Raspbian – Image with desktop based on Debian Jessie.
 
+| `Install Raspbian` |
+| --- |
+| ![Install Raspbian](https://sajal.info/img/install-raspbian.png) |
+
 There are many another third party Operating system founded in Download Page. If you using raspberry pi 3 model B or greater device, I recommend you to use Raspbian Jessie with PIXEL. Raspbian pixel released in November 2016 & current Kernel version is 4.4.
 
 We’re 3 step away from installing Raspberry Pi operating system image on SD Card. Let’s do this.
