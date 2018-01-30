@@ -3,7 +3,7 @@ date = 2016-04-18
 draft = false
 tags = ["I'm afraid", "our fault & my request"]
 title = "im afraid fault request"
-math = true
+math = false
 +++
 
 
