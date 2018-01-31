@@ -4,7 +4,7 @@
 
 **Sajal CV** provides a minimal template to sajal-cv your new website by following the simple steps below.
 
-[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
+[![Screenshot](https://sajal.info/img/demo.jpg)](https://sajal.info/)
 
 ## Getting Started
 
