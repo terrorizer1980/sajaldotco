@@ -27,7 +27,7 @@ The Cookie Law is a piece of privacy legislation that requires websites to get c
 
 **Are Cookies secure?**
 
-Cookies that are sent over HTTP (port 80) are not secure as the HTTP protocol is not encrypted. Cookies sent over HTTPS (port 443) are secure as HTTPS is encrypted. So, if Facebook sends/receives cookies via HTTP, they can be stolen and used nefariously. That’s why you should always check for a green padlock right beside your browser’s url bar. A website without a green padlock is insecure and all data that are sent and received can be hijacked with Man-in-the-middle attack.
+Cookies that are sent over HTTP (port 80) are not secure as the HTTP protocol is not encrypted. Cookies sent over HTTPS (port 443) are secure as HTTPS is encrypted. So, if sajal.info sends/receives cookies via HTTP, they can be stolen and used nefariously. That’s why you should always check for a green padlock right beside your browser’s url bar. A website without a green padlock is insecure and all data that are sent and received can be hijacked with Man-in-the-middle attack. Don't worry, We used COMODO ECC Domain Validation Secure Server CA 2 ssl certificate to encrypt all traffic.
 
 (source: https://stackoverflow.com/questions/6035447/are-cookies-secure-from-hijacking-over-http)
 
