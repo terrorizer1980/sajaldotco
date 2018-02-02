@@ -10,7 +10,7 @@ In this Tutorial I’ll explain, How to install Raspberry Pi operating system im
 """
 
 [header]
-image = "install-raspberry-pi-operating-system.jpg"
+image = "install-raspberry-pi-operating_system.jpg"
 caption = "install Raspberry Pi operating system"
 
 +++
