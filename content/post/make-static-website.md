@@ -17,9 +17,9 @@ caption = "Make Static Website by Github and Netlify"
 
 In this Tutorial I’ll explain, How to make a static website by github, hugo and netlify.
 
-    Github – .
-    Hugo –
-    Netlify –.
+    Github – [ Create an Github account](https://github.com/join?https://sajal.info/) or If you already have an github account [ login](https://github.com/login) now. 
+    Netlify – [ Create an Netlify account ] (https://app.netlify.com/login) or Login by your existing account.
+    Deploy – [![Install Sajal-cv with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sajaldotinfo/sajal-cv) BooM !
 
 | `Static Website` |
 | --- |
