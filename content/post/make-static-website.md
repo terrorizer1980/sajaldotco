@@ -15,12 +15,13 @@ caption = "Make Static Website by Github and Netlify"
 
 +++
 
-In this Tutorial I’ll explain, How to install Raspberry Pi operating system image on SD Card. Raspberry Foundation recommended two startups operating system for Your Raspberry PI device.
+In this Tutorial I’ll explain, How to make a static website by github, hugo and netlify.
 
-    Noobs – which is designed to be very easy to use.
-    Raspbian – Image with desktop based on Debian Jessie.
+    Github – .
+    Hugo –
+    Netlify –.
 
-| `Install Raspbian` |
+| `Static Website` |
 | --- |
-| ![Install Raspbian](https://sajal.info/img/install-raspbian.png) |
+| ![Static Website](https://sajal.info/img/static-website.jpg) |
 
