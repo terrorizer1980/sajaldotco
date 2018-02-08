@@ -6,7 +6,7 @@ tags = ["Static Website", "Github Hugo Netlify"]
 title = "How to Make Static Website by Github and Netlify"
 math = true
 summary = """
-In this Tutorial I’ll explain, How to make a static website by github, hugo and netlify. . 
+In this Tutorial I’ll explain, How to make a static website by github, hugo and netlify. Create an Github account or If you already have an github account login now. Create an Netlify account or Login by your existing account. Deploy My repository - Boom ! 
 """
 
 [header]
