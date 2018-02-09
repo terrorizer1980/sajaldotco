@@ -23,7 +23,7 @@ Netlify – [ Create an Netlify account ] (https://app.netlify.com/login) or Log
 
 Deploy – [![Install Sajal-cv with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sajaldotinfo/sajal-cv) BooM !
 
-| `Static Website` |
+| `Make Static Website by Github and Netlify` |
 | --- |
-| ![Static Website](https://sajal.info/img/static-website.jpg) |
+| ![Make Static Website by Github and Netlify](https://sajal.info/img/deploy-to-netlify.jpg) |
 
