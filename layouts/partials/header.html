@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="msvalidate.01" content="65F7742D0928542EEEF89EFB76C88D1A" />
+  <meta property="og:type" content="website"/>
   <link rel="alternate" hreflang="{{ .Site.LanguageCode | default "en-us" }}" href="{{ .Permalink }}">
 
   {{ $scr := .Scratch }}
@@ -82,7 +83,7 @@
   <link rel="apple-touch-icon" type="image/png" href="{{ "/img/icon-192.png" | relURL }}">
 
   <link rel="canonical" href="{{ .Permalink }}">
-  <meta property="article:author" content="https://www.facebook.com/www.sajal.info">
+  <meta property="author" content="https://www.facebook.com/www.sajal.info">
   <meta property="twitter:card" content="summary_large_image">
   {{ range where $.Site.Params.social ".icon" "twitter" }}
   <meta property="twitter:site" content="@{{ replaceRE "^//twitter.com/([^/]+)" "$1" .link }}">
