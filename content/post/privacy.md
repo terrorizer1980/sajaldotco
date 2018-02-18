@@ -2,6 +2,7 @@
 date = 2017-11-22
 # lastmod = 2018-01-28
 draft = false
+disable_comments = true
 tags = ["Terms of Service", "Privacy Policy"]
 title = "Terms of Service of sajal.info"
 summary = """By accessing the website at http://sajal.info or any subdomain, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site."""
