@@ -15,6 +15,7 @@ weight = 60
 
 +++
 
+{{< gallery album="1" >}}
 [[gallery_item]]
 album = "1"
 image = "bangla-blog.png"
