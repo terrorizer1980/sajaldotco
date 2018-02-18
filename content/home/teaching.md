@@ -15,6 +15,5 @@ weight = 60
 
 +++
 
-| `Bangla Blog` | `Image Gallery` |
-| --- | --- |
-| ![default theme](https://sajal.info/img/bangla-blog.png)| ![ocean theme](https://sajal.info/img/image-gallery.png) |
+{{< figure src="https://sajal.info/img/bangla-blog.png" title="Bangla Blog" >}}
+{{< figure src="https://sajal.info/img/image-gallery.png" title="Image Gallery" >}}
