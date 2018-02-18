@@ -2,6 +2,7 @@
 date = 2017-11-22
 # lastmod = 2018-01-28
 draft = false
+disable_comments = true
 tags = ["why-cookies", "cookies uses"]
 title = "why cookies"
 summary = """Today we are going to discuss about “Cookies”, which most (I think 99%) websites use it. Cookies is the reason why websites could recognize you and differ you from the others. Cookies is one of the reason why websites are as cool as they are now."""
