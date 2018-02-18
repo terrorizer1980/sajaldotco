@@ -18,3 +18,7 @@ weight = 60
 | `Bangla Blog` | `Image Gallery` |
 | --- | --- |
 | ![https://bn.sajal.info](https://sajal.info/img/bangla-blog.png)| ![https://image.sajal.info](https://sajal.info/img/image-gallery.png) |
+
+{{% alert note %}}
+My other website which is made by different CMS 
+{{% /alert %}}
