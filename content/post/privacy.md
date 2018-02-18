@@ -85,3 +85,8 @@ Sajal Mondal may revise these terms of service for its website at any time witho
 **8. Governing Law**
 
 These terms and conditions are governed by and construed in accordance with the laws of Dhaka, Bangladesh and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.
+
+{{% alert note %}}
+If you've any query about this Privacy policy and Terms of service, Please contact with hello@sajal.info 
+{{% /alert %}}
+
