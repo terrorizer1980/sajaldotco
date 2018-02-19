@@ -9,13 +9,7 @@
   {{end}}
   <h3 class="article-title" itemprop="headline">
     <a href="{{ $post.Permalink }}" itemprop="url">{{ $post.Title }}</a>
-  </h3>
-  <div class="sidenav">
-  <a href="#about">About</a>
-  <a href="#services">Services</a>
-  <a href="#clients">Clients</a>
-  <a href="#contact">Contact</a>
-</div> 
+  </h3>  
   {{ partial "article_metadata" (dict "content" $post "is_list" 1) }}
   <div class="article-style" itemprop="articleBody">
     {{ if $post.Params.summary }}
