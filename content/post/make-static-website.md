@@ -27,9 +27,3 @@ Deploy – [![Install Sajal-cv with Netlify](https://www.netlify.com/img/deploy/
 | --- |
 | ![Make Static Website by Github and Netlify](https://sajal.info/img/deploy-to-netlify.jpg) |
 
-<div class="sidenav">
-  <a href="#about">About</a>
-  <a href="#services">Services</a>
-  <a href="#clients">Clients</a>
-  <a href="#contact">Contact</a>
-</div> 
