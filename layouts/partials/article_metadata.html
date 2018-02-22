@@ -19,6 +19,7 @@
   <span class="article-reading-time">
     {{ $.ReadingTime }} {{ i18n "minute_read" }}
   </span>
+  
   {{ end }}
 
   {{ $comments_enabled := and $.Site.DisqusShortname (not (or $.Site.Params.disable_comments $.Params.disable_comments)) }}
@@ -45,10 +46,4 @@
   {{ partial "share.html" $ }}
   {{ end }}
 
-</div>
-<div class="sidenav">
-  <a href="#about">About</a>
-  <a href="#services">Services</a>
-  <a href="#clients">Clients</a>
-  <a href="#contact">Contact</a>
 </div>
