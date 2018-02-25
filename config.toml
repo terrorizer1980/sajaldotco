@@ -255,7 +255,7 @@ post = "/:slug"
   weight = 2
 
 [[menu.main]]
-  name = "Publications"
+  name = "Gallery"
   url = "https://gallery.sajal.info/"
   weight = 3
 
