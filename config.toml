@@ -256,7 +256,7 @@ post = "/:slug"
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  url = "https://gallery.sajal.info/"
   weight = 3
 
 [[menu.main]]
@@ -265,12 +265,12 @@ post = "/:slug"
   weight = 4
 
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Downloads"
+  url = "https://downloads.sajal.info/"
   weight = 5
 
 [[menu.main]]
-  name = "Teaching"
+  name = "Linked Sites"
   url = "#teaching"
   weight = 6
 
