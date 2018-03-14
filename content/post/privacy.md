@@ -49,7 +49,9 @@ Sajal Mondal may revise these terms of service for its website at any time witho
 
 These terms and conditions are governed by and construed in accordance with the laws of Dhaka, Bangladesh and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.
 
-are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.
+**1. Terms of Service**
+
+You are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.
 
 **2. Use License**
 
