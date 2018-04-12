@@ -11,7 +11,7 @@ Now the pages of any newspaper are seen rape! So now the rape level reached the 
 """
 
 [header]
-image = "https://bn.sajal.info/img/rape-in-Bangladesh.jpg"
+image = "rape-in-Bangladesh.jpg"
 caption = "Image credit: [**Google**](https://google.com/)"
 
 +++
