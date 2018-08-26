@@ -5,14 +5,14 @@ draft = false
 disable_comments = true
 tags = ["Terms of Service", "Privacy Policy"]
 title = "Terms of Service of sajal.info"
-summary = """By accessing the website at http://sajal.info or any subdomain, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site."""
+summary = """By accessing the website at https://sajal.co or any subdomain, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site."""
 +++
 
 **Sajal Mondal's Terms of Service**
 
 **1. Terms**
 
-By accessing the website at http://sajal.info or any subdomain, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.
+By accessing the website at https://sajal.co or any subdomain, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.
 
 **2. Use License**
 
