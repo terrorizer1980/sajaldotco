@@ -3,7 +3,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://sajal.info/"
+baseurl = "https://sajal.co/"
 
 # Title of your site
 title = "Sajal Mondal"
@@ -218,7 +218,7 @@ post = "/:slug"
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:hello@sajal.info"
+    link = "mailto:hello@sajal.co"
 
   [[params.social]]
     icon = "twitter"
@@ -251,12 +251,12 @@ post = "/:slug"
 
 [[menu.main]]
   name = "বাংলা"
-  url = "https://bn.sajal.info"
+  url = "https://bn.sajal.co"
   weight = 2
 
 [[menu.main]]
   name = "Gallery"
-  url = "https://gallery.sajal.info/"
+  url = "https://gallery.sajal.co/"
   weight = 3
 
 [[menu.main]]
@@ -266,7 +266,7 @@ post = "/:slug"
 
 [[menu.main]]
   name = "Downloads"
-  url = "https://downloads.sajal.info/"
+  url = "https://downloads.sajal.co/"
   weight = 5
 
 [[menu.main]]
