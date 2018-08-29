@@ -60,10 +60,10 @@ post = "/:slug"
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "sajal.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "hello@sajal.info"
+  email = "hello@sajal.co"
   address = "Sraboni 14NA/1,Lakecity Concord, Khilkhet, Dhaka-1229"
   office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "+8801749555918"
+  phone = "+8801749555918 and +916294185327"
   skype = "uwriteme"
   telegram = ""
 
