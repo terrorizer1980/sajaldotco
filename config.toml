@@ -59,7 +59,7 @@ post = "/:slug"
   organizations = [ { name = "Pineapple IT", url = "https://pineappleit.net" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "sajal.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "sajal.co.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "hello@sajal.co"
   address = "Sraboni 14NA/1,Lakecity Concord, Khilkhet, Dhaka-1229"
   office_hours = "Monday 10:00 to 13:00 or email for appointment"
