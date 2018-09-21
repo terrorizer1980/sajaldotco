@@ -52,7 +52,7 @@ post = "/:slug"
 
   # Your details.
   name = "Sajal Mondal"
-  role = "Founder & CEO"
+  role = "I’m Sajal Mondal from Dhaka, Bangladesh. I’m Founder & CEO of Pineapple IT which is a most leading Web Hosting Company."
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
