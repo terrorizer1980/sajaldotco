@@ -24,9 +24,9 @@ Prerequisites:
 * [Download and install Git](https://git-scm.com/downloads)
 * [Download and install Hugo](https://gohugo.io/getting-started/installing/#quick-install)
 
-1. Clone (or [Fork](https://github.com/sajaldotinfo/sajal-cv#fork-destination-box) or [download](https://github.com/sajaldotco/sajal-cv/archive/master.zip)) the *Sajal CV* repository with Git: 
+1. Clone (or [Fork](https://github.com/sajaldotco/sajal-cv#fork-destination-box) or [download](https://github.com/sajaldotco/sajal-cv/archive/master.zip)) the *Sajal CV* repository with Git: 
 
-       git clone https://github.com/sajaldotinfo/sajal-cv.git My_Website
+       git clone https://github.com/sajaldotco/sajal-cv.git My_Website
     
     *Note that if you forked Sajal CV, the above command should be edited to clone your fork.*
 
