@@ -233,7 +233,7 @@ post = "/:slug"
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/sajadotinfo"
+    link = "//github.com/sajadotco"
 
 
 # Navigation Links
