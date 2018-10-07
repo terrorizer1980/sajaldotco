@@ -227,13 +227,13 @@ post = "/:slug"
 
   [[params.social]]
     icon = "facebook"
-    icon_pack = "ai"
+    icon_pack = "fa"
     link = "https://www.facebook.com/www.sajal.co"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/sajadotco"
+    link = "//github.com/sajaldotco"
 
 
 # Navigation Links
