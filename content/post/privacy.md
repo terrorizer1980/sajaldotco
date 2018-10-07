@@ -1,10 +1,10 @@
 +++
 date = 2017-11-22
-# lastmod = 2018-01-28
+# lastmod = 2018-10-07
 draft = false
 disable_comments = true
 tags = ["Terms of Service", "Privacy Policy"]
-title = "Terms of Service of sajal.info"
+title = "Terms of Service of sajal.co"
 summary = """By accessing the website at https://sajal.co or any subdomain, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this site."""
 +++
 
@@ -89,6 +89,6 @@ Sajal Mondal may revise these terms of service for its website at any time witho
 These terms and conditions are governed by and construed in accordance with the laws of Dhaka, Bangladesh and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.
 
 {{% alert note %}}
-If you've any query about this Privacy policy and Terms of service, Please contact with hello@sajal.info 
+If you've any query about this Privacy policy and Terms of service, Please contact with hello@sajal.co 
 {{% /alert %}}
 
