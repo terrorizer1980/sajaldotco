@@ -20,7 +20,7 @@ preserveTaxonomyNames = true
 paginate = 10
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = "sajaldotinfo"
+disqusShortname = "sajaldotco"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-87994197-1"
@@ -62,8 +62,8 @@ post = "/:slug"
   avatar = "sajal.co.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "hello@sajal.co"
   address = "Sraboni 14NA/1,Lakecity Concord, Khilkhet, Dhaka-1229"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "+8801749555918 and +916294185327"
+  office_hours = "Friday 10:00 to 13:00 or email for appointment"
+  phone = "+8801749555918"
   skype = "uwriteme"
   telegram = ""
 
@@ -223,12 +223,12 @@ post = "/:slug"
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/sajaldotinfo"
+    link = "//twitter.com/sajaldotco"
 
   [[params.social]]
-    icon = "google-scholar"
+    icon = "facebook"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=aZOnpUcAAAAJ&hl"
+    link = "https://www.facebook.com/www.sajal.co"
 
   [[params.social]]
     icon = "github"
