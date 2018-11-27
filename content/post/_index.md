@@ -6,7 +6,7 @@ highlight = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "sajal-selfie.jpg"
+image = "www.sajal.co.jpg"
 caption = "My Latest Posts 😄"
 
 +++
