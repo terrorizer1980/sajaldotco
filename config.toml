@@ -261,7 +261,7 @@ post = "/:slug"
 
 [[menu.main]]
   name = "Posts"
-  url = "#posts"
+  url = "https://sajal.co/post/"
   weight = 4
 
 [[menu.main]]
