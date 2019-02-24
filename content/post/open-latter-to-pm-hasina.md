@@ -10,7 +10,7 @@ You have broken all of the four principles of Bangladesh constitution, there is 
 """
 
 [header]
-image = "https://bn.sajal.co/img/sheik_hasina.jpg"
+image = "sheikh-hasina.jpg"
 caption = "Open Letter to PM Sheikh Hasina"
 
 +++
