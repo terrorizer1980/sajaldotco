@@ -10,7 +10,7 @@ I am not neutral, always on the side of righteousness. I don't understand politi
 """
 
 [header]
-image = "philosophy-"
+image = "philosophy-.jpg"
 caption = "My open Philosophy"
 
 +++
