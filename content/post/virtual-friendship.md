@@ -10,7 +10,7 @@ Facebook's new friendship is a matter of two clicks, two times to remove it agai
 """
 
 [header]
-image = "https://bn.sajal.co/img/sheik_hasina.jpg"
+image = "virtual-friendship.jpg"
 caption = "About Virtual friendship on Facebook"
 
 +++
