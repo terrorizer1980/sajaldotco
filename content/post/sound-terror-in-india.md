@@ -10,7 +10,7 @@ Usually India is a Hindu majority country, at the junction of small big temples.
 """
 
 [header]
-image = "https://bn.sajal.co/img/sheik_hasina.jpg"
+image = "sound-pollution.jpg"
 caption = "Sound Pollution in India during Festival"
 
 +++
