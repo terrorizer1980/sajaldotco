@@ -10,7 +10,7 @@ I trust people's freedom and freedom of speech. I want to say that whatever you 
 """
 
 [header]
-image = "https://bn.sajal.co/img/sheik_hasina.jpg"
+image = "perverted-bengali-mind.jpg"
 caption = "Perverted Bengali Mind"
 
 +++
